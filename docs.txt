@@ -1,0 +1,20 @@
+  Steps to use git and github. 
+  1 git init
+   2 git add .
+   3 git status
+   4 git commit -m "Initialize new docs"
+   5 git status
+   6 git remote add origin https://github.com/Aragor70/my-docs.git
+   7 git remote show
+   8 git push origin master
+   9 git add .
+  10 git status
+  11 git commit -m "Ext update"
+  12 git push origin master
+  13 git status
+  14 git pull origin master
+  15 git add .
+  16 git commit -m "Confim the update"
+  17 git status
+  18 git pull origin master
+  19 git push origin master
